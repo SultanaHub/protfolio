@@ -51,6 +51,7 @@ p{
 
 
 .navbar{
+    
     background-color: #2978b5;
 }
 
@@ -93,6 +94,8 @@ p{
    
     }
 
+
+    
 }
 
 /*header ends*/
@@ -100,34 +103,8 @@ p{
 /*profile section starts here*/
 
 #profile{
-    padding: 150px 50px;
-    /*position:relative;
-    text-align: center;*/
+    padding: 12% 7%;
 }
-
-/*.top-weather-icon{
-    right: 150px;
-    top: -100px;
-    position: absolute;
-    transition: transform .2s;
-}
-
-.top-weather-icon:hover{
-    transform: rotate(360deg)
-   
-}
-
-.bottom-weather-icon{
-    left:150px;
-    top: 20px;
-    position: absolute;
-    transition: transform .2s;
-}
-
-.bottom-weather-icon:hover{
-    transform: rotate(360deg)
-   
-}*/
 
 
 /*profile section ends here*/
@@ -147,7 +124,7 @@ p{
     border: 1px solid #bfcba8;
     border-bottom: none;
     padding-right: 20px;
-/*     width: 540px; */
+    /* width: 540px; */
 }
 
 .about-me-image{
