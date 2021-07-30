@@ -123,9 +123,10 @@ p{
 .hr-line-style-about-me{
     border: 1px solid #bfcba8;
     border-bottom: none;
-    padding-right: 20px;
+    /* padding-right: 20px; */
     /* width: 540px; */
 }
+
 
 .about-me-image{
     width: 200px;
@@ -305,3 +306,20 @@ p{
 
 
 /* contact-me section ends here*/
+/* footer */
+
+footer{
+    padding: 1% 7%;
+    background-color: #2978b5 ;
+}
+
+footer a{
+    padding-left: 15px;
+    color: white;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
